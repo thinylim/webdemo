@@ -8,7 +8,6 @@
           <img aria-hidden="true" alt="logo" src="http://localhost:5173/openui/32x32.svg?text=✦" class="w-8 h-8">
           <span class="text-xl font-bold tracking-tight">LUMIÈRE</span>
         </div>
-
         
         <div class="hidden md:flex items-center gap-8">
           <a href="#features" class="text-sm text-muted-foreground hover:text-foreground transition-colors">Features</a>
@@ -17,7 +16,6 @@
           <a href="#testimonials" class="text-sm text-muted-foreground hover:text-foreground transition-colors">Testimonials</a>
           <a href="#contact" class="text-sm text-muted-foreground hover:text-foreground transition-colors">Contact</a>
         </div>
-
         
         <div class="flex items-center gap-3">
           <button class="hidden sm:inline-flex bg-primary text-primary-foreground hover:bg-primary/90 px-4 py-2 rounded-lg text-sm font-medium transition-colors">
@@ -28,7 +26,6 @@
           </button>
         </div>
       </div>
-
       
       <div id="mobileMenu" class="md:hidden hidden pb-4 space-y-1">
         <a href="#features" class="block px-3 py-2 rounded-lg text-sm text-muted-foreground hover:bg-secondary hover:text-foreground transition-colors">Features</a>
@@ -42,143 +39,56 @@
       </div>
     </div>
   </nav>
-
+  
   
   <section class="relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-primary/5 via-transparent to-accent/5"></div>
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32 lg:py-40 relative">
-      <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-        <div class="space-y-8">
-          <div class="inline-flex items-center gap-2 bg-secondary/50 border border-border rounded-full px-4 py-1.5 text-sm">
-            <span class="w-2 h-2 bg-primary rounded-full animate-pulse"></span>
-            <span class="text-muted-foreground">Now Available Worldwide</span>
-          </div>
-          <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-tight">
-            Crafting the
-            <span class="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent"> Future</span>
-            <br>of Digital Experience
-          </h1>
-          <p class="text-lg text-muted-foreground max-w-lg leading-relaxed">
-            We design and build premium digital products that empower businesses to scale, innovate, and lead in the modern era.
-          </p>
-          <div class="flex flex-col sm:flex-row gap-4">
-            <button class="bg-primary text-primary-foreground hover:bg-primary/90 px-8 py-3 rounded-xl text-base font-semibold transition-all hover:shadow-lg hover:shadow-primary/25">
-              Start Free Trial
-            </button>
-            <button class="border border-border bg-background hover:bg-secondary px-8 py-3 rounded-xl text-base font-semibold transition-colors flex items-center justify-center gap-2">
-              <img aria-hidden="true" alt="play" src="http://localhost:5173/openui/20x20.svg?text=▶" class="w-4 h-4">
-              Watch Demo
-            </button>
-          </div>
-          <div class="flex items-center gap-6 pt-4">
-            <div class="flex -space-x-3">
-              <img alt="User 1" src="https://placehold.co/40x40/6366f1/ffffff?text=A" class="w-10 h-10 rounded-full border-2 border-background" data-src="https://images.unsplash.com/photo-1657813091698-4ebc83681407?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=M3w2MTg1MTN8MHwxfHNlYXJjaHwyfHxVc2VyJTIwMXxlbnwwfDJ8fHwxNzc3OTk0NTY2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=40&amp;h=40" width="40" height="40" loading="lazy" data-blurhash="LJGu{+ngIpo}?]4nr_%3E3DQInx^">
-              <img alt="User 2" src="https://placehold.co/40x40/8b5cf6/ffffff?text=B" class="w-10 h-10 rounded-full border-2 border-background" data-src="https://images.unsplash.com/photo-1631164127494-272cf06180bd?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=M3w2MTg1MTN8MHwxfHNlYXJjaHwyfHxVc2VyJTIwMnxlbnwwfDJ8fHwxNzc3OTk0NTY2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=40&amp;h=40" width="40" height="40" loading="lazy" data-blurhash="L_C*L+jGRQozOeR,kWWBV|oLt4ax">
-              <img alt="User 3" src="https://placehold.co/40x40/a78bfa/ffffff?text=C" class="w-10 h-10 rounded-full border-2 border-background" data-src="https://images.unsplash.com/photo-1619950478241-580b2fac27ea?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=M3w2MTg1MTN8MHwxfHNlYXJjaHwyfHxVc2VyJTIwM3xlbnwwfDJ8fHwxNzc4MDAwNjQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=40&amp;h=40" width="40" height="40" loading="lazy" data-blurhash="LdHTgu,-4mA0=ss,JCRkIAWZtSsj">
-              <img alt="User 4" src="https://placehold.co/40x40/c4b5fd/ffffff?text=D" class="w-10 h-10 rounded-full border-2 border-background" data-src="https://images.unsplash.com/photo-1657813091698-4ebc83681407?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=M3w2MTg1MTN8MHwxfHNlYXJjaHwyfHxVc2VyJTIwNHxlbnwwfDJ8fHwxNzc4MDAwNjQ3fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=40&amp;h=40" width="40" height="40" loading="lazy" data-blurhash="LJGu{+ngIpo}?]4nr_%3E3DQInx^">
-            </div>
-            <div>
-              <div class="flex items-center gap-1">
-                <img aria-hidden="true" alt="star" src="http://localhost:5173/openui/16x16.svg?text=★" class="w-4 h-4 text-yellow-500">
-                <img aria-hidden="true" alt="star" src="http://localhost:5173/openui/16x16.svg?text=★" class="w-4 h-4 text-yellow-500">
-                <img aria-hidden="true" alt="star" src="http://localhost:5173/openui/16x16.svg?text=★" class="w-4 h-4 text-yellow-500">
-                <img aria-hidden="true" alt="star" src="http://localhost:5173/openui/16x16.svg?text=★" class="w-4 h-4 text-yellow-500">
-                <img aria-hidden="true" alt="star" src="http://localhost:5173/openui/16x16.svg?text=★" class="w-4 h-4 text-yellow-500">
-              </div>
-              <p class="text-sm text-muted-foreground">Trusted by <span class="text-foreground font-semibold">10,000+</span> teams</p>
-            </div>
-          </div>
+      <div class="text-center max-w-3xl mx-auto space-y-8">
+        <div class="inline-flex items-center gap-2 bg-secondary/50 border border-border rounded-full px-4 py-1.5 text-sm">
+          <span class="w-2 h-2 bg-primary rounded-full animate-pulse"></span>
+          <span class="text-muted-foreground">Our Story</span>
         </div>
-        <div class="relative">
-          <div class="absolute -inset-4 bg-gradient-to-r from-primary/20 to-accent/20 rounded-3xl blur-2xl"></div>
-          <img alt="Hero dashboard preview" src="https://placehold.co/600x400/1e1b4b/818cf8?text=Dashboard+Preview" class="relative rounded-2xl border border-border shadow-2xl w-full">
-        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-tight">
+          We Build the
+          <span class="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent"> Tools</span>
+          <br>That Shape Tomorrow
+        </h1>
+        <p class="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
+          Founded in 2019, Lumière was born from a simple belief: technology should empower, not complicate. We're a team of dreamers, builders, and innovators on a mission to transform how businesses operate in the digital age.
+        </p>
       </div>
     </div>
   </section>
-
   
   <section class="border-y border-border bg-muted/30">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <p class="text-center text-sm text-muted-foreground mb-8">Trusted by industry leaders worldwide</p>
-      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-8 items-center opacity-60">
-        <img alt="Partner 1" src="https://placehold.co/120x40/transparent/64748b?text=Google" class="mx-auto h-8">
-        <img alt="Partner 2" src="https://placehold.co/120x40/transparent/64748b?text=Meta" class="mx-auto h-8">
-        <img alt="Partner 3" src="https://placehold.co/120x40/transparent/64748b?text=Stripe" class="mx-auto h-8">
-        <img alt="Partner 4" src="https://placehold.co/120x40/transparent/64748b?text=Vercel" class="mx-auto h-8">
-        <img alt="Partner 5" src="https://placehold.co/120x40/transparent/64748b?text=Notion" class="mx-auto h-8">
-        <img alt="Partner 6" src="https://placehold.co/120x40/transparent/64748b?text=Figma" class="mx-auto h-8">
-      </div>
-    </div>
-  </section>
-
-  
-  <section id="features" class="py-24 sm:py-32">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center max-w-2xl mx-auto mb-16">
-        <span class="text-sm font-semibold text-primary uppercase tracking-wider">Features</span>
-        <h2 class="mt-3 text-3xl sm:text-4xl font-bold tracking-tight">Everything you need to succeed</h2>
-        <p class="mt-4 text-lg text-muted-foreground">Powerful tools and features designed to streamline your workflow and boost productivity.</p>
-      </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        
-        <div class="group p-6 rounded-2xl border border-border bg-card hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/5">
-          <div class="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-            <img aria-hidden="true" alt="lightning" src="http://localhost:5173/openui/24x24.svg?text=⚡" class="w-6 h-6">
-          </div>
-          <h3 class="text-lg font-semibold mb-2">Lightning Fast</h3>
-          <p class="text-muted-foreground text-sm leading-relaxed">Optimized for speed with sub-second load times and instant interactions across all devices.</p>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div class="text-center space-y-2">
+          <p class="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">10K+</p>
+          <p class="text-sm text-muted-foreground">Active Teams</p>
         </div>
-        
-        <div class="group p-6 rounded-2xl border border-border bg-card hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/5">
-          <div class="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-            <img aria-hidden="true" alt="shield" src="http://localhost:5173/openui/24x24.svg?text=🛡️" class="w-6 h-6">
-          </div>
-          <h3 class="text-lg font-semibold mb-2">Enterprise Security</h3>
-          <p class="text-muted-foreground text-sm leading-relaxed">Bank-grade encryption and SOC2 compliance to keep your data safe and secure at all times.</p>
+        <div class="text-center space-y-2">
+          <p class="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">50+</p>
+          <p class="text-sm text-muted-foreground">Countries Served</p>
         </div>
-        
-        <div class="group p-6 rounded-2xl border border-border bg-card hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/5">
-          <div class="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-            <img aria-hidden="true" alt="chart" src="http://localhost:5173/openui/24x24.svg?text=📊" class="w-6 h-6">
-          </div>
-          <h3 class="text-lg font-semibold mb-2">Advanced Analytics</h3>
-          <p class="text-muted-foreground text-sm leading-relaxed">Deep insights with real-time dashboards, custom reports, and AI-powered recommendations.</p>
+        <div class="text-center space-y-2">
+          <p class="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">99.9%</p>
+          <p class="text-sm text-muted-foreground">Uptime Guarantee</p>
         </div>
-        
-        <div class="group p-6 rounded-2xl border border-border bg-card hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/5">
-          <div class="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-            <img aria-hidden="true" alt="puzzle" src="http://localhost:5173/openui/24x24.svg?text=🧩" class="w-6 h-6">
-          </div>
-          <h3 class="text-lg font-semibold mb-2">Seamless Integrations</h3>
-          <p class="text-muted-foreground text-sm leading-relaxed">Connect with 200+ tools you already use. One-click setup with zero configuration needed.</p>
-        </div>
-        
-        <div class="group p-6 rounded-2xl border border-border bg-card hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/5">
-          <div class="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-            <img aria-hidden="true" alt="globe" src="http://localhost:5173/openui/24x24.svg?text=🌍" class="w-6 h-6">
-          </div>
-          <h3 class="text-lg font-semibold mb-2">Global CDN</h3>
-          <p class="text-muted-foreground text-sm leading-relaxed">Content delivered from 50+ edge locations worldwide for blazing fast access everywhere.</p>
-        </div>
-        
-        <div class="group p-6 rounded-2xl border border-border bg-card hover:border-primary/50 transition-all hover:shadow-lg hover:shadow-primary/5">
-          <div class="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-            <img aria-hidden="true" alt="support" src="http://localhost:5173/openui/24x24.svg?text=💬" class="w-6 h-6">
-          </div>
-          <h3 class="text-lg font-semibold mb-2">24/7 Support</h3>
-          <p class="text-muted-foreground text-sm leading-relaxed">Dedicated support team available around the clock via chat, email, and phone.</p>
+        <div class="text-center space-y-2">
+          <p class="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">200+</p>
+          <p class="text-sm text-muted-foreground">Integrations</p>
         </div>
       </div>
     </div>
   </section>
-
   
-  <section id="about" class="py-24 sm:py-32 bg-muted/30">
+  <section id="about" class="py-24 sm:py-32">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid lg:grid-cols-2 gap-16 items-center">
         <div class="relative">
-          <img alt="Team collaboration" src="https://placehold.co/600x500/1e1b4b/818cf8?text=Our+Team" class="rounded-2xl border border-border shadow-xl w-full">
+          <img alt="Team collaboration" src="https://placehold.co/600x500/1e1b4b/818cf8?text=Our+Team" class="rounded-2xl border border-border shadow-xl w-full" data-src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=M3w2MTg1MTN8MHwxfHNlYXJjaHwzfHxUZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfDB8fHwxNzc4MDUxMjc5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=600&amp;h=500" width="600" height="500" loading="lazy" data-blurhash="LLH2K8Dh0L%h-:XUem%2E2r;xFW=">
           <div class="absolute -bottom-6 -right-6 bg-card border border-border rounded-xl p-4 shadow-lg hidden sm:block">
             <div class="flex items-center gap-3">
               <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center">
@@ -193,4 +103,114 @@
         </div>
         <div class="space-y-6">
           <span class="text-sm font-semibold text-primary uppercase tracking-wider">About Us</span>
-          </div></div></div></section>
+          <h2 class="text-3xl sm:text-4xl font-bold tracking-tight">Driven by Purpose, Powered by Innovation</h2>
+          <p class="text-muted-foreground leading-relaxed">
+            What started as a small team of three passionate engineers has grown into a global company of over 150 talented individuals. We've always stayed true to our core mission: making powerful technology accessible to everyone.
+          </p>
+          <p class="text-muted-foreground leading-relaxed">
+            Our platform serves businesses of all sizes — from ambitious startups to Fortune 500 enterprises. We believe that the right tools can unlock human potential and drive meaningful progress across industries.
+          </p>
+          <div class="space-y-4 pt-4">
+            <div class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <img aria-hidden="true" alt="check" src="http://localhost:5173/openui/16x16.svg?text=✓" class="w-3.5 h-3.5">
+              </div>
+              <div>
+                <p class="font-semibold">Customer-First Philosophy</p>
+                <p class="text-sm text-muted-foreground">Every decision we make starts with our customers' needs.</p>
+              </div>
+            </div>
+            <div class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <img aria-hidden="true" alt="check" src="http://localhost:5173/openui/16x16.svg?text=✓" class="w-3.5 h-3.5">
+              </div>
+              <div>
+                <p class="font-semibold">Open &amp; Transparent</p>
+                <p class="text-sm text-muted-foreground">We believe in radical transparency with our team and our users.</p>
+              </div>
+            </div>
+            <div class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <img aria-hidden="true" alt="check" src="http://localhost:5173/openui/16x16.svg?text=✓" class="w-3.5 h-3.5">
+              </div>
+              <div>
+                <p class="font-semibold">Continuous Innovation</p>
+                <p class="text-sm text-muted-foreground">We ship new features every week, driven by user feedback and research.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="py-24 sm:py-32 bg-muted/30">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-16">
+        <span class="text-sm font-semibold text-primary uppercase tracking-wider">Our Values</span>
+        <h2 class="mt-3 text-3xl sm:text-4xl font-bold tracking-tight">What We Stand For</h2>
+        <p class="mt-4 text-lg text-muted-foreground">The principles that guide every product we build and every decision we make.</p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div class="text-center space-y-4 p-6 rounded-2xl bg-card border border-border">
+          <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mx-auto">
+            <img aria-hidden="true" alt="heart" src="http://localhost:5173/openui/28x28.svg?text=❤️" class="w-7 h-7">
+          </div>
+          <h3 class="text-lg font-semibold">Empathy</h3>
+          <p class="text-sm text-muted-foreground leading-relaxed">We put ourselves in our users' shoes to create experiences that truly resonate.</p>
+        </div>
+        <div class="text-center space-y-4 p-6 rounded-2xl bg-card border border-border">
+          <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mx-auto">
+            <img aria-hidden="true" alt="rocket" src="http://localhost:5173/openui/28x28.svg?text=🚀" class="w-7 h-7">
+          </div>
+          <h3 class="text-lg font-semibold">Ambition</h3>
+          <p class="text-sm text-muted-foreground leading-relaxed">We set bold goals and pursue them with relentless determination and focus.</p>
+        </div>
+        <div class="text-center space-y-4 p-6 rounded-2xl bg-card border border-border">
+          <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mx-auto">
+            <img aria-hidden="true" alt="handshake" src="http://localhost:5173/openui/28x28.svg?text=🤝" class="w-7 h-7">
+          </div>
+          <h3 class="text-lg font-semibold">Collaboration</h3>
+          <p class="text-sm text-muted-foreground leading-relaxed">Great things happen when diverse minds come together with shared purpose.</p>
+        </div>
+        <div class="text-center space-y-4 p-6 rounded-2xl bg-card border border-border">
+          <div class="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mx-auto">
+            <img aria-hidden="true" alt="leaf" src="http://localhost:5173/openui/28x28.svg?text=🌱" class="w-7 h-7">
+          </div>
+          <h3 class="text-lg font-semibold">Sustainability</h3>
+          <p class="text-sm text-muted-foreground leading-relaxed">We build for the long term, considering our impact on people and the planet.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="py-24 sm:py-32">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-16">
+        <span class="text-sm font-semibold text-primary uppercase tracking-wider">Our Team</span>
+        <h2 class="mt-3 text-3xl sm:text-4xl font-bold tracking-tight">Meet the People Behind Lumière</h2>
+        <p class="mt-4 text-lg text-muted-foreground">A diverse group of thinkers, makers, and problem-solvers united by a shared vision.</p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div class="group text-center space-y-4">
+          <div class="relative overflow-hidden rounded-2xl">
+            <img alt="Sarah Chen - CEO &amp; Co-founder" src="https://placehold.co/300x350/6366f1/ffffff?text=SC" class="w-full aspect-[6/7] object-cover group-hover:scale-105 transition-transform duration-300">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4">
+              <div class="flex gap-3">
+                <a href="#" class="w-8 h-8 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center hover:bg-white/30 transition-colors">
+                  <img aria-hidden="true" alt="twitter" src="http://localhost:5173/openui/16x16.svg?text=𝕏" class="w-4 h-4">
+                </a>
+                <a href="#" class="w-8 h-8 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center hover:bg-white/30 transition-colors">
+                  <img aria-hidden="true" alt="linkedin" src="http://localhost:5173/openui/16x16.svg?text=in" class="w-4 h-4">
+                </a>
+              </div>
+            </div>
+          </div>
+          <div>
+            <h3 class="font-semibold text-lg">Sarah Chen</h3>
+            <p class="text-sm text-muted-foreground">CEO &amp; Co-founder</p>
+          </div>
+        </div>
+        <div class="group text-center space-y-4">
+          <div class="relative overflow-hidden rounded-2xl">
+            </div></div></div></div></section>
